@@ -31,7 +31,7 @@
   box-sizing: border-box;
 }
 
-a {
+.a {
   color: #555555;
   transition: color ease-in-out 0.3s;
 }
@@ -40,7 +40,7 @@ a:hover {
   text-decoration: none;
 }
 
-a:hover svg {
+a:hover i {
   color: #2142b2;
   transition: color ease-in-out 0.3s;
 }
