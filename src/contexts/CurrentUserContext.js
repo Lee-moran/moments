@@ -76,4 +76,3 @@ export const CurrentUserProvider = ({ children }) => {
     </CurrentUserContext.Provider>
   );
 };
-
