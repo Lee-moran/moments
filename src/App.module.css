@@ -40,7 +40,7 @@ a:hover {
   text-decoration: none;
 }
 
-a:hover svg {
+a:hover i {
   color: #2142b2;
   transition: color ease-in-out 0.3s;
 }
@@ -49,14 +49,14 @@ input[type="file"] {
   display: none;
 }
 
-svg {
+i {
   color: #cfced3;
   font-size: 1.6rem;
   padding: 7px;
   vertical-align: middle;
 }
 
-svg:hover {
+i:hover {
   cursor: pointer;
   transition: color ease-in-out 0.3s;
   color: #2142b2;
